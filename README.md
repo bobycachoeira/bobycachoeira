@@ -22,6 +22,9 @@ QA há mais de 14 anos, especializado em automação de testes E2E, testes de pe
 - [Controle Financeiro Familiar](https://github.com/bobycachoeira/controle-financeiro) — PWA
   offline-first de finanças para casal (Vue 3 + TypeScript + PocketBase) com pirâmide completa de
   testes: unitários de domínio, integração de backend e E2E em Playwright, com CI no GitHub Actions.
+- [Minha Leitura](https://github.com/bobycachoeira/minha-leitura) — PWA offline-first de metas e
+  histórico de leitura (Vue 3 + TypeScript + PocketBase) com testes unitários, de contrato, de
+  integração de backend e 12 suítes E2E em Playwright, com CI no GitHub Actions.
 - [my-restassured-example](https://github.com/bobycachoeira/my-restassured-example) — projeto de
   exemplo de testes de API com RestAssured e Allure Report.
 - [my_playwright_example](https://github.com/bobycachoeira/my_playwright_example) — estudos de
